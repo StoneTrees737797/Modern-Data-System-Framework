@@ -17,6 +17,7 @@
 				<Item Name="Add Multiple.vi" Type="VI" URL="../../Builds/Queue Wrappers.lvlibp/Add Multiple.vi"/>
 				<Item Name="Add.vi" Type="VI" URL="../../Builds/Queue Wrappers.lvlibp/Add.vi"/>
 				<Item Name="Destroy Q.vi" Type="VI" URL="../../Builds/Queue Wrappers.lvlibp/Destroy Q.vi"/>
+				<Item Name="Flush Q.vi" Type="VI" URL="../../Builds/Queue Wrappers.lvlibp/Flush Q.vi"/>
 				<Item Name="Get All.vi" Type="VI" URL="../../Builds/Queue Wrappers.lvlibp/Get All.vi"/>
 				<Item Name="Get Next.vi" Type="VI" URL="../../Builds/Queue Wrappers.lvlibp/Get Next.vi"/>
 				<Item Name="New Q.vi" Type="VI" URL="../../Builds/Queue Wrappers.lvlibp/New Q.vi"/>
