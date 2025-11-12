@@ -13,13 +13,13 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Libraries" Type="Folder">
-			<Item Name="File Utilities.lvlibp" Type="LVLibp" URL="../../Libraries/File Utilities/File Utilities.lvlibp">
-				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="../../Libraries/File Utilities/File Utilities.lvlibp/1abvi3w/vi.lib/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
-				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="../../Libraries/File Utilities/File Utilities.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Error Cluster From Error Code.vi"/>
-				<Item Name="Get File Extension.vi" Type="VI" URL="../../Libraries/File Utilities/File Utilities.lvlibp/1abvi3w/vi.lib/Utility/libraryn.llb/Get File Extension.vi"/>
-				<Item Name="Increment File Name.vi" Type="VI" URL="../../Libraries/File Utilities/File Utilities.lvlibp/Increment File Name.vi"/>
-				<Item Name="NI_FileType.lvlib" Type="Library" URL="../../Libraries/File Utilities/File Utilities.lvlibp/1abvi3w/vi.lib/Utility/lvfile.llb/NI_FileType.lvlib"/>
-				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="../../Libraries/File Utilities/File Utilities.lvlibp/1abvi3w/vi.lib/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
+			<Item Name="File Utilities.lvlibp" Type="LVLibp" URL="../../Libraries/File-Utilities/File Utilities.lvlibp">
+				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="../../Libraries/File-Utilities/File Utilities.lvlibp/1abvi3w/vi.lib/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
+				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="../../Libraries/File-Utilities/File Utilities.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="Get File Extension.vi" Type="VI" URL="../../Libraries/File-Utilities/File Utilities.lvlibp/1abvi3w/vi.lib/Utility/libraryn.llb/Get File Extension.vi"/>
+				<Item Name="Increment File Name.vi" Type="VI" URL="../../Libraries/File-Utilities/File Utilities.lvlibp/Increment File Name.vi"/>
+				<Item Name="NI_FileType.lvlib" Type="Library" URL="../../Libraries/File-Utilities/File Utilities.lvlibp/1abvi3w/vi.lib/Utility/lvfile.llb/NI_FileType.lvlib"/>
+				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="../../Libraries/File-Utilities/File Utilities.lvlibp/1abvi3w/vi.lib/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 			</Item>
 			<Item Name="Queue Wrappers.lvlibp" Type="LVLibp" URL="../../Builds/Queue Wrappers.lvlibp">
 				<Item Name="Add Multiple.vi" Type="VI" URL="../../Builds/Queue Wrappers.lvlibp/Add Multiple.vi"/>
@@ -38,7 +38,6 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 			<Property Name="NI.SortType" Type="Int">1</Property>
 		</Item>
-		<Item Name="File Utilities.lvlib" Type="Library" URL="../../Libraries/File Utilities/File Utilities.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
