@@ -36,7 +36,7 @@
 		</Item>
 		<Item Name="MDS Framework" Type="Folder" URL="..">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
-			<Property Name="NI.SortType" Type="Int">1</Property>
+			<Property Name="NI.SortType" Type="Int">0</Property>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
